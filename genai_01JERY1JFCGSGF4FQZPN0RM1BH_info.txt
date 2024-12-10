@@ -1,0 +1,6 @@
+access management app for physical doors in buildings and houses 
+Use LogicBank to: There are different types of accesses:
+1. permanent accesses for special users or owners
+2. temporary invitations with start date and end date. Access is only on those dates
+3. temporary invitations regular to cover the case for someone who follows certain schedule every week periodically
+4. we have different groups and profiles for every user to allow good granularity on permissions 
